@@ -5,6 +5,7 @@ img
 body
 {
 	background-color: #2B3840;
+	font-family: 'Roboto Slab';
 }
 
 header
@@ -39,7 +40,7 @@ header h1
 	position: absolute;
 	top: 30%;
 	left: 30%;
-	text-shadow: 4px 4px #34929E;
+	text-shadow: 2px 2px #34929E;
 }
 
 section#main
@@ -75,4 +76,12 @@ section#personalinfo figure
 section h1
 {
 	text-shadow: 2px 2px #838182;
+}
+
+p, i
+{
+	font-family: Arial;
+	font-size: 26px;
+	vertical-align: top;
+	display: inline-block;
 }

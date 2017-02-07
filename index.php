@@ -5,6 +5,8 @@
 		<title><?php bloginfo("title")?></title>
 		<link rel="stylesheet" href="<?php print CSS?>normalize.css">
 		<link rel="stylesheet" href="<?php print CSS?>main.css">
+		<script src="https://use.fontawesome.com/c376f3e971.js"></script>
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
 	</head>
 	<body>
 		<header>
@@ -15,7 +17,10 @@
 		</header>
 		<section id="main">
 			<section id="personalinfo">
-				<figure><img src="<?php print IMG?>user.png" alt=""></figure><h1>Personal Info</h1>
+				<div>
+					<figure><img src="<?php print IMG?>user.png" alt=""></figure><h1>Personal Info</h1>
+				</div>
+				<p> <i class="fa fa-map-marker" aria-hidden="true"></i> Jamaica, New York</p>
 			</section>
 			<section id="knowledge">
 				<h1>Knowledge</h1>
