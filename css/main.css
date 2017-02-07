@@ -1,0 +1,78 @@
+img
+{
+	width: 100%;
+}
+body
+{
+	background-color: #2B3840;
+}
+
+header
+{
+	background-color: #41B9CA;
+	min-height: 150px;
+	border-bottom: 8px solid #34929E;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 9999;
+}
+
+header figure 
+{
+	margin:0 5% 0 15%;
+	padding:25px 0;
+	width: 180px;
+	position: absolute;
+	top: 20%;
+}
+header figure img 
+{
+	border-radius: 50%;
+	border:6px solid #34929E;
+	width: 100%;
+}
+header h1
+{
+	color: white;
+	position: absolute;
+	top: 30%;
+	left: 30%;
+	text-shadow: 4px 4px #34929E;
+}
+
+section#main
+{
+	margin: 300px auto 0 auto;
+	min-height: 1000px;
+	/*background-color: #555;*/
+	position: relative;
+}
+
+section#main section
+{
+	margin: 50px auto;
+	width: 70%;
+}
+section#personalinfo figure img
+{
+	width: 50px;
+	padding: 0;
+	margin: 0;
+}
+section#personalinfo figure , section#personalinfo h1
+{
+	vertical-align: middle;
+	display: inline-block;
+}
+
+section#personalinfo figure
+{
+	padding: 0;
+	margin: 0 15px 0 0;
+}
+section h1
+{
+	text-shadow: 2px 2px #838182;
+}
