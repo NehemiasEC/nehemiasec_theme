@@ -136,7 +136,60 @@ section#portfolio figure
 	padding: 0;
 	margin: 0 15px 0 0;
 }
+footer
+{
+	background-color: #D4D4D4;
+	min-height: 150px;
+	width: 100%;
+}
 footer figure
 {
 	width: 250px;
+	margin:0;
+	padding: 0;
+}
+section p
+{
+	margin-left: 20px;
+}
+h3
+{
+	margin:0;
+	padding: 0;
+}
+footer *
+{
+	margin: 0;
+	padding: 0;
+}
+section#certifications
+{
+	position: relative;
+}
+section#certifications figure img
+{
+	width: 50px;
+	padding: 0;
+	margin: 0;
+}
+section#certifications figure , section#certifications h1
+{
+	vertical-align: middle;
+	display: inline-block;
+	position: relative;
+}
+
+section#certifications figure
+{
+	padding: 0;
+	margin: 0 15px 0 0;
+}
+iframe
+{
+	margin: 20px 50px;
+}
+
+footer figure#humans 
+{
+	width: 150px;
 }
