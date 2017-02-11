@@ -8,14 +8,37 @@
 		<script src="https://use.fontawesome.com/c376f3e971.js"></script>
 		<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
 		<link type="text/plain" rel="author" href="http://nehemiasec.com/humans.txt" />
+		<!-- google analitycs -->
+	    <script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-91780876-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+
+		<!-- Google Tag Manager -->
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-PK2BTK3');</script>
+			<!-- End Google Tag Manager -->
 	</head>
 	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PK2BTK3"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
 		<header>
 			<figure>
 				<img src="<?php print IMG?>profile.jpeg" alt="">
 			</figure>
 			<h1>UX Designer Frontend and Wordpress Developer!!</h1>
-			
+
 		</header>
 		<section id="main">
 			<section id="personalinfo">
@@ -62,7 +85,7 @@
 		</section>
 		<footer>
 			<section>
-				<figure>	
+				<figure>
 					<a href="http://www.w3.org/html/logo/" target="_blank"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-device-multimedia-performance-semantics.png" width="261" height="64" alt="HTML5 Powered with CSS3 / Styling, Device Access, Multimedia, Performance &amp; Integration, and Semantics" title="HTML5 Powered with CSS3 / Styling, Device Access, Multimedia, Performance &amp; Integration, and Semantics"></a>
 				</figure>
 				<h3>KISS Methodology (Keep it Simple Stupid)</h3>
