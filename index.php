@@ -57,16 +57,19 @@
 				<div>
 					<figure><img src="<?php print IMG?>portfolio.png" alt=""></figure><h1> Portfolio</h1>
 				</div>
+				<p>under construction <a href="https://teconecta-estrategux.rhcloud.com/" target="_blank">Teconecta Project</a></p>
 			</section>
 		</section>
 		<footer>
-			<figure>	
-				<a href="http://www.w3.org/html/logo/"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-device-multimedia-performance-semantics.png" width="261" height="64" alt="HTML5 Powered with CSS3 / Styling, Device Access, Multimedia, Performance &amp; Integration, and Semantics" title="HTML5 Powered with CSS3 / Styling, Device Access, Multimedia, Performance &amp; Integration, and Semantics"></a>
-			</figure>
-			<h3>KISS Methodology (Keep it Simple Stupid)</h3>
-			<figure id="humans">
-				<a href="http://humanstxt.org/"><img src="<?php print IMG?>humans.gif" alt=""></a>
-			</figure>
+			<section>
+				<figure>	
+					<a href="http://www.w3.org/html/logo/" target="_blank"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-device-multimedia-performance-semantics.png" width="261" height="64" alt="HTML5 Powered with CSS3 / Styling, Device Access, Multimedia, Performance &amp; Integration, and Semantics" title="HTML5 Powered with CSS3 / Styling, Device Access, Multimedia, Performance &amp; Integration, and Semantics"></a>
+				</figure>
+				<h3>KISS Methodology (Keep it Simple Stupid)</h3>
+				<figure id="humans">
+					<a href="http://humanstxt.org/"><img src="<?php print IMG?>humans.gif" alt=""></a>
+				</figure>
+			</section>
 		</footer>
 	</body>
 </html>

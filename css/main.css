@@ -193,3 +193,15 @@ footer figure#humans
 {
 	width: 150px;
 }
+footer section *
+{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 10px auto;
+}
+footer section
+{
+	margin: 0 auto;
+	padding: 0;
+	width: 60%;
+}
